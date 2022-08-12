@@ -31,7 +31,7 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 RICE_MAINTAINER := shin32
 
 # chipset flag (one word only/no spacing)
-RICE_CHIPSET := chipset
+RICE_CHIPSET := Snapdragon780G
 
 # gapps build flag, if not defined build type is vanilla
 WITH_GMS := true
