@@ -40,13 +40,13 @@ WITH_GMS := true
 SUSHI_BOOTANIMATION := 1080
 
 # Graphene Camera
-TARGET_BUILD_GRAPHENEOS_CAMERA := true
+TARGET_BUILD_GRAPHENEOS_CAMERA := false
 
 # disable/enable blur support, default is false
 TARGET_ENABLE_BLUR := false
 
 # UDFPS ICONS/ANIMATIONS
-TARGET_HAS_UDFPS := true
+TARGET_HAS_UDFPS := false
 
 # Quick tap feature
 TARGET_SUPPORTS_QUICK_TAP := true
